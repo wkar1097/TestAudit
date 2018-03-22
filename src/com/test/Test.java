@@ -1,18 +1,18 @@
 package com.test;
 
 public class Test {
-    int password;
+    String password;
 
     public String getUsername() {
     }
 
     }
 
-    public int getPassword() {
+    public String getPassword() {
         return password;
     }
 
-    public void setPassword(int password) {
+    public void setPassword(String password) {
         this.password = password;
     }
 }
