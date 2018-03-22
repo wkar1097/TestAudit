@@ -11,6 +11,8 @@ public class TestClass {
 
         int item2 = 14;
 
+        int item3 = 15;
+
 
         Test test = new Test();
         test.setPassword(password);
