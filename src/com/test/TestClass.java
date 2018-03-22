@@ -5,6 +5,7 @@ public class TestClass {
         String username = "newB";
         String password = "PASSWORD";
         String key = "key";
+        String aaa = "qws";
 
         Test test = new Test();
         test.setPassword(password);
