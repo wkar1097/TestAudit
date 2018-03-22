@@ -2,7 +2,7 @@ package com.test;
 
 public class Test {
     String username;
-    int password;
+    String password;
 
     public String getUsername() {
         return username;
@@ -12,11 +12,11 @@ public class Test {
         this.username = username;
     }
 
-    public int getPassword() {
+    public String getPassword() {
         return password;
     }
 
-    public void setPassword(int password) {
+    public void setPassword(String password) {
         this.password = password;
     }
 }
