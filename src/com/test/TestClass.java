@@ -7,6 +7,8 @@ public class TestClass {
         String erfv = "erfv";
         String aaa = "qws";
         String aaaaa = "qax";
+        int item = 13;
+
 
         Test test = new Test();
         test.setPassword(password);
