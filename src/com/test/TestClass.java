@@ -6,6 +6,7 @@ public class TestClass {
         String password = "PASSWORD";
         String key = "key";
         String aaa = "qws";
+        String aaaaa = "qax";
 
         Test test = new Test();
         test.setPassword(password);
