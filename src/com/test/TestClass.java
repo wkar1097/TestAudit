@@ -9,6 +9,8 @@ public class TestClass {
         String aaaaa = "qax";
         int item = 13;
 
+        int item2 = 14;
+
 
         Test test = new Test();
         test.setPassword(password);
