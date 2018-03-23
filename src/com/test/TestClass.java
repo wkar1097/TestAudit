@@ -9,5 +9,6 @@ public class TestClass {
         test.setPassword(password);
         test.setUsername(username);
         System.out.println("Test 1");
+        System.out.println("Test 2");
     }
 }
