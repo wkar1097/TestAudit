@@ -5,7 +5,9 @@ public class TestClass {
         String username = "newB";
         String password = "AAAAA";
         String key = "AAAA";
+
         String newKey = "SECRET";
+
 
         Test test = new Test();
         test.setPassword(password);
@@ -19,5 +21,6 @@ public class TestClass {
         System.out.println("Test 2#");
         System.out.println("Test 3#");
         System.out.println("Test 4#");
+
     }
 }
