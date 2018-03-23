@@ -13,5 +13,7 @@ public class TestClass {
         System.out.println("Test 2");
         System.out.println("Test 1");
         System.out.println("Test 2");
+        System.out.println("Test 1#");
+        System.out.println("Test 2#");
     }
 }
