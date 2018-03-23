@@ -4,6 +4,7 @@ public class Test {
     String username;
     String password;
     String key = "SECRET";
+    String key1 = "1wssad";
 
     public String getUsername() {
         return username;
