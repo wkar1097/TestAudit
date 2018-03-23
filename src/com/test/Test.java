@@ -3,9 +3,9 @@ package com.test;
 public class Test {
     String username;
     String password;
-
     String key = "SECRET";
     String key1 = "QQQQQ";
+
 
     public String getUsername() {
         return username;
