@@ -8,5 +8,6 @@ public class TestClass {
         Test test = new Test();
         test.setPassword(password);
         test.setUsername(username);
+        System.out.println("Test 1");
     }
 }
