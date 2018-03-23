@@ -4,12 +4,8 @@ public class TestClass {
     public static void main(String[] args) {
         String username = "newB";
         String password = "AAAAA";
-<<<<<<< HEAD
         String key = "AAAA";
-        String newKey = "";
-=======
         String newKey = "SECRET";
->>>>>>> 63be8ae... Resolve conflicts
 
         Test test = new Test();
         test.setPassword(password);
