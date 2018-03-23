@@ -8,7 +8,6 @@ public class TestClass {
 
         String newKey = "SECRET";
 
-
         Test test = new Test();
         test.setPassword(password);
         test.setUsername(username);
