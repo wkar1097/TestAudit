@@ -3,7 +3,7 @@ package com.test;
 public class Test {
     String username;
     String password;
-    
+
 
     public String getUsername() {
         return username;
