@@ -3,6 +3,7 @@ package com.test;
 public class Test {
     String username;
     String password;
+    String key = "SECRET";
 
     public String getUsername() {
         return username;
